@@ -1,8 +1,15 @@
+<<<<<<< HEAD
 import React from "react";
+=======
+>>>>>>> 6eb9439d199d28cc7a2282e9a4c25ddb89da096a
 import Container from "react-bootstrap/Container";
 import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
 import NavDropdown from "react-bootstrap/NavDropdown";
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6eb9439d199d28cc7a2282e9a4c25ddb89da096a
 const NavBarComponent = () => {
   return (
     <Navbar expand="lg" className="bg-body-tertiary">
@@ -26,6 +33,10 @@ const NavBarComponent = () => {
             </NavDropdown>
           </Nav>
         </Navbar.Collapse>
+<<<<<<< HEAD
+=======
+        Imagen de carrito para primer entrega
+>>>>>>> 6eb9439d199d28cc7a2282e9a4c25ddb89da096a
       </Container>
     </Navbar>
   );
